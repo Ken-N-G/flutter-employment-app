@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594555605322",
+    "project_id": "jobsareusplatform",
+    "storage_bucket": "jobsareusplatform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594555605322:android:4d270601dac5626f73f1b3",
+        "android_client_info": {
+          "package_name": "com.example.lowongan_kita_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3W6nkla0esafmztWRwCrZS2pPgXJ-fdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
